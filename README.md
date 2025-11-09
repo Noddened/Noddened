@@ -4,14 +4,15 @@
   <img src="rdimg.png" width="175" align="right" alt="Tony" />
 </p>
 
+<br>
 <h3 align="left">About Me</h3>
 
 
 <p align="left">
 I'm a Go backend developer on a journey toward Application Security (AppSec).  
-Previously worked with C, C++ and Python — now fully focused on Go + Secure Backend Engineering.<br><br>
-
-<b>🚀 Currently Working On:</b><br>
+Previously worked with C, C++ and Python — now fully focused on Go + Secure Backend Engineering.<br>
+<br>
+<h4>🚀 Currently Working On:</h4>
 - 🧱 Secret Vault — secure REST API for storing encrypted user secrets (Go, Gin, PostgreSQL, JWT, AES)<br>
 - 💾 Tiny Vault CLI — command-line encrypted data manager written in Go (lightweight and offline)
 </p>
@@ -63,7 +64,7 @@ Previously worked with C, C++ and Python — now fully focused on Go + Secure Ba
 
 <h3>🔐 Secret Vault</h3>
 <p>Secure API service for encrypted storage of user secrets. Built with Go, Gin, PostgreSQL, AES encryption, JWT auth.</p>
-<p><i>Go • Gin • PostgreSQL • Security</i></p>
+<p><i>Go • Web • PostgreSQL • Security</i></p>
 
 </td>
 <td width="50%">
@@ -78,16 +79,16 @@ Previously worked with C, C++ and Python — now fully focused on Go + Secure Ba
 <tr>
 <td width="50%">
 
-<h3>🕵️ OSINT Toolkit</h3>
-<p>Collection of OSINT helpers for recon, URL scanning, metadata extraction and infrastructure analysis.</p>
-<p><i>Go • OSINT</i></p>
+<h3>🕵️ ARP DoS + Spoofer</h3>
+<p>A Python script that allows you to jam local networks or listen for MITM attacks based on the ARP protocol.</p>
+<p><i>Python • Offensive</i></p>
 
 </td>
 <td width="50%">
 
-<h3>⚙️ Concurrency Lab</h3>
-<p>Playground for experimenting with goroutines, channels, worker pools and high-performance patterns.</p>
-<p><i>Go • Concurrency</i></p>
+<h3>⚙️ Simple converter to hex/binary</h3>
+<p>The ftoc program is written in C and is designed to convert an input file of any form into a binary/hexadecimal string written to the output file.</p>
+<p><i>C • Binary</i></p>
 
 </td>
 </tr>
