@@ -1,5 +1,5 @@
 
-<h1 align="center">Wassup! I'm Tony</h3>
+<h1 align="center">Whassup! I'm Anton</h3>
 <p align="center">
   <img src="rdimg.png" width="175" align="right" alt="Tony" />
 </p>
