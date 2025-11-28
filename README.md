@@ -13,8 +13,8 @@ I'm a Go backend developer on a journey toward Application Security (AppSec).
 Previously worked with C, C++ and Python — now fully focused on Go + Secure Backend Engineering.<br>
 <br>
 <h4>🚀 Currently Working On:</h4>
-- 🧱 Secret Vault — secure REST API for storing encrypted user secrets (Go, Gin, PostgreSQL, JWT, AES)<br>
-- 💾 Tiny Vault CLI — command-line encrypted data manager written in Go (lightweight and offline)
+- 🔐 Quiet Room — secure REST API for storing encrypted user secrets (Go, Gin, PostgreSQL, JWT, AES)<br>
+- 💾 Tiny Vault — command-line encrypted data manager written in Go (lightweight and offline)
 </p>
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -62,14 +62,14 @@ Previously worked with C, C++ and Python — now fully focused on Go + Secure Ba
 <tr>
 <td width="50%">
 
-<h3>🔐 Secret Vault</h3>
+<a href="https://github.com/Noddened/Quiet-Room"><h3>🔐 Quiet Room</h3></a>
 <p>Secure API service for encrypted storage of user secrets. Built with Go, Gin, PostgreSQL, AES encryption, JWT auth.</p>
 <p><i>Go • Web • PostgreSQL • Security</i></p>
 
 </td>
 <td width="50%">
 
-<h3>💾 Tiny Vault CLI</h3>
+<a href="https://github.com/Noddened/Tiny-Vault"><h3>💾 Tiny Vault</h3>/a>
 <p>Minimalistic encrypted CLI vault. Offline, lightweight, secure. Uses AES encryption and Go standard libs.</p>
 <p><i>Go • CLI • Crypto</i></p>
 
@@ -79,14 +79,14 @@ Previously worked with C, C++ and Python — now fully focused on Go + Secure Ba
 <tr>
 <td width="50%">
 
-<h3>🕵️ ARP DoS + Spoofer</h3>
+<a href="https://github.com/Noddened/ARP-DoS-Spoofer"><h3>🕵️ ARP DoS + Spoofer</h3>/a>
 <p>A Python script that allows you to jam local networks or listen for MITM attacks based on the ARP protocol.</p>
 <p><i>Python • Offensive</i></p>
 
 </td>
 <td width="50%">
 
-<h3>⚙️ Simple converter to hex/binary</h3>
+<a href="https://github.com/Noddened/simple-converter-to-hex-binary"><h3>⚙️ Simple converter to hex/binary</h3></a>
 <p>The ftoc program is written in C and is designed to convert an input file of any form into a binary/hexadecimal string written to the output file.</p>
 <p><i>C • Binary</i></p>
 
