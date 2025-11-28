@@ -69,7 +69,7 @@ Previously worked with C, C++ and Python — now fully focused on Go + Secure Ba
 </td>
 <td width="50%">
 
-<a href="https://github.com/Noddened/Tiny-Vault"><h3>💾 Tiny Vault</h3>/a>
+<a href="https://github.com/Noddened/Tiny-Vault"><h3>💾 Tiny Vault</h3></a>
 <p>Minimalistic encrypted CLI vault. Offline, lightweight, secure. Uses AES encryption and Go standard libs.</p>
 <p><i>Go • CLI • Crypto</i></p>
 
@@ -79,7 +79,7 @@ Previously worked with C, C++ and Python — now fully focused on Go + Secure Ba
 <tr>
 <td width="50%">
 
-<a href="https://github.com/Noddened/ARP-DoS-Spoofer"><h3>🕵️ ARP DoS + Spoofer</h3>/a>
+<a href="https://github.com/Noddened/ARP-DoS-Spoofer"><h3>🕵️ ARP DoS + Spoofer</h3></a>
 <p>A Python script that allows you to jam local networks or listen for MITM attacks based on the ARP protocol.</p>
 <p><i>Python • Offensive</i></p>
 
